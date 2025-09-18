@@ -1,3 +1,5 @@
+Sistema de Ouvidoria
+
 🧾 Objetivo do Projeto
 
 O sistema de ouvidoria desenvolvido em Python tem como objetivo permitir o registro, consulta e remoção de manifestações feitas por usuários. Ele simula um sistema simples de atendimento público ou empresarial onde o cidadão ou cliente pode registrar reclamações, elogios, sugestões, etc.
